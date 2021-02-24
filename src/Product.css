@@ -1,0 +1,15 @@
+.divInline{
+
+    display : inline-block;
+    margin-left: 40px;
+
+}
+
+.cartcomp{
+
+    position: relative;
+    bottom: 170px;
+    left: 1000px;
+    font-size: 18px;
+
+}
